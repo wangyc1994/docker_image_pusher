@@ -1,5 +1,6 @@
 nginx
 #支持私库
+sonic-slave-bullseye-march-arm64:lastest
 sonic-slave-bullseye-march-arm64:7dcea32a7c1
 #支持指定架构
---platform=linux/arm64
+#--platform=linux/arm64
