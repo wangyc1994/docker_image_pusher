@@ -1,6 +1,6 @@
 nginx
 #支持私库
-multiarch/qemu-user-static:latest
+multiarch/qemu-user-static:x86_64-aarch-6.1.0-8
 multiarch/debian-debootstrap:arm64-bullseye
 #支持指定架构
 #--platform=linux/arm64
