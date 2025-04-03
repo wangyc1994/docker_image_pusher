@@ -1,6 +1,5 @@
 
 #支持私库
-multiarch/qemu-user-static:x86_64-aarch64
-multiarch/debian-debootstrap:arm64-buster
+amd64/debian:bookworm
 #支持指定架构
 #--platform=linux/arm64
