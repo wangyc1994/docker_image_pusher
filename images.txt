@@ -1,5 +1,5 @@
 
 #支持私库
-amd64/debian:bookworm
+arm64/debian:bullseye
 #支持指定架构
 #--platform=linux/arm64
