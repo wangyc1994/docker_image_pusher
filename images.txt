@@ -1,5 +1,5 @@
 
 #支持私库
-arm64/debian:bullseye
+arm64v8/debian:bullseye
 #支持指定架构
 #--platform=linux/arm64
