@@ -1,5 +1,5 @@
 
 #支持私库
-arm64v8/debian:bullseye
+p4lang/behavioral-model@sha256:ce45720e28a96a50f275c1b511cd84c2558b62f2cf7a7e506765183bc3fb2e32
 #支持指定架构
---platform=linux/arm64
+#--platform=linux/arm64
